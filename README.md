@@ -73,7 +73,7 @@ The trained model weights are available for download from Google Drive. You can 
 
 
 ## Results
-The model achieved an accuracy of 78% on the validation dataset after training for 150 epochs. Below are the key results obtained from the model's evaluation:
+The model achieved an accuracy of 76.7% on the validation dataset after training for 100 epochs. Below are the key results obtained from the model's evaluation:
 
 **Model Performance:**
 Training Accuracy: 77%
@@ -84,8 +84,11 @@ Test Set Accuracy: Available in custom_cnn.csv.
 To evaluate the model's classification performance, we used the following metrics:
 
 **Accuracy**: Percentage of correctly classified images.
+
 **Precision**: Measures the model's ability to correctly identify positive samples.
+
 **Recall**: Measures the model's ability to identify all relevant instances.
+
 **F1-Score**: A balanced measure of precision and recall.
 
 
