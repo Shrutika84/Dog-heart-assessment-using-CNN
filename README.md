@@ -65,6 +65,13 @@ Loss: The loss value for both the training and validation sets.
 2. **Test Evaluation**
 After training is complete, the model is evaluated on a separate test set to measure its generalization. The predicted class labels for each test image are saved in the test_predictions.csv file.
 
+## Model Weights
+
+The trained model weights are available for download from Google Drive. You can download the model weights (`best_model.pth`) using the link below:
+
+- [Download the trained model weights : (Custom_CNN_model.pth)](https://drive.google.com/file/d/1gndENAaFLNXBwLSBZGC7Br4GOsLzaLi4/view?usp=sharing)
+
+
 ## Results
 The model achieved an accuracy of 78% on the validation dataset after training for 150 epochs. Below are the key results obtained from the model's evaluation:
 
